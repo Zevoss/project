@@ -1,1 +1,2 @@
-ansible_connenction: network_cli
+---
+ansible_connection: network_cli
